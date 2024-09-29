@@ -1,2 +1,16 @@
 # Crawl4AI-Streamlit-app
-Building a Web Scraping Tool with Crawl4AI (Selenium-backed) and Streamlit for AI apps
+
+## Features
+Selenium-Powered Crawling: Scrape dynamic web pages, including those relying on JavaScript.
+
+Markdown Output: Extract and download scraped content in markdown format.
+
+Interactive UI: Simple web interface powered by Streamlit.
+
+Personalized Sidebar: Add your name, photo, and links (LinkedIn, GitHub, etc.) for branding.
+
+## Run the Streamlit app:
+
+```
+streamlit run app.py
+```
